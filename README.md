@@ -1,4 +1,4 @@
-# 🗓️ Score Notification CLI App
+# Score Notification CLI App
 
 A **Python-based command-line tool** for scheduling events and automatically detecting time conflicts. Designed to help students, professionals, or anyone manage their time effectively by avoiding overlapping classes, meetings, or study sessions.
 
